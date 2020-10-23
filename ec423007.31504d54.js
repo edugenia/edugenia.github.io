@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{82:function(u){u.exports=JSON.parse('{"allTagsPath":"/edugenia.github.io/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/edugenia.github.io/blog/tags/docusaurus"}')}}]);
