@@ -6,7 +6,7 @@ module.exports = {
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'edugenia', // Usually your GitHub org/user name.
-  projectName: 'website', // Usually your repo name.
+  projectName: 'edugenia.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Edugenia',
@@ -22,7 +22,7 @@ module.exports = {
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
-        {to: 'apps', label: 'Apps', position: 'left'},
+        // {to: 'apps', label: 'Apps', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
