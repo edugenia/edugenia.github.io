@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[24],{83:function(o){o.exports=JSON.parse('{"allTagsPath":"/edugenia.github.io/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/edugenia.github.io/blog/tags/facebook"}')}}]);
