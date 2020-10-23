@@ -8,32 +8,32 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Easy to Use',
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    title: 'Innovative Tools',
+    imageUrl: 'img/innovation.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        At <b>Edugenia</b> we are committed to bring innovation and ease of use
+        to both the creators and the consumers of educational software.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    title: 'Broader Reach',
+    imageUrl: 'img/reach.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Our products are multiplatform and runs seamlessy on websites, mobile apps
+        and desktop application.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: 'Ready for Costumization',
+    imageUrl: 'img/customization.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Our solutions are designed to be flexible. We will help you package
+        your content in the most effective and relevant way for your target audience.
       </>
     ),
   },
@@ -57,13 +57,17 @@ function Feature({imageUrl, title, description}) {
 function Home() {
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
+  const imgUrl = useBaseUrl('img/full_logo_shadow.png');
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
-          <h1 className="hero__title">{siteConfig.title}</h1>
+          {/*<h1 className="hero__title">{siteConfig.title}</h1>*/}
+          <div className="text--center">
+            <img src={imgUrl} alt={`Edugenia`} />
+          </div>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
           <div className={styles.buttons}>
             <Link
