@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{67:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/edugenia.github.io/blog/welcome"},{"title":"Hello","permalink":"/edugenia.github.io/blog/hello-world"},{"title":"Hola","permalink":"/edugenia.github.io/blog/hola"}]}')}}]);
