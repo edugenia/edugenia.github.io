@@ -2,7 +2,7 @@ module.exports = {
   title: 'Edugenia',
   tagline: 'Smart educational software',
   url: 'https://www.edugenia.com',
-  baseUrl: '/',
+  baseUrl: '/edugenia.github.io/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'edugenia', // Usually your GitHub org/user name.
