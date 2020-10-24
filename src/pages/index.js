@@ -12,7 +12,7 @@ const features = [
     imageUrl: 'img/innovation.svg',
     description: (
       <>
-        At <b>Edugenia</b> we are committed to bring innovation and ease of use
+        At <b>Edugenia</b> we are committed to bring innovation and ease-of-use
         to both the creators and the consumers of educational software.
       </>
     ),
@@ -22,14 +22,14 @@ const features = [
     imageUrl: 'img/reach.svg',
     description: (
       <>
-        Our products are multiplatform and runs seamlessy on websites, mobile apps
-        and desktop application.
+        Our products are multiplatform and run seamlessly on websites, mobile apps
+        and desktop applications.
       </>
     ),
   },
   {
     title: 'Ready for Costumization',
-    imageUrl: 'img/customization.svg',
+    imageUrl: 'img/customization.png',
     description: (
       <>
         Our solutions are designed to be flexible. We will help you package
@@ -57,7 +57,7 @@ function Feature({imageUrl, title, description}) {
 function Home() {
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
-  const imgUrl = useBaseUrl('img/full_logo_shadow.png');
+  const imgUrl = useBaseUrl('img/full_logo.png');
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
