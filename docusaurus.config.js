@@ -68,7 +68,7 @@ module.exports = {
             },
             {
               label: 'Privacy',
-              href: 'https://github.com/facebook/docusaurus',
+              to: 'docs/privacy/'
             },
           ],
         },
