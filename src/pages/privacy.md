@@ -1,8 +1,4 @@
----
-id: privacy
-title: Privacy Policy of Edugenia
-sidebar_label: Privacy Policy
----
+# Privacy Policy of Edugenia
 
 _Latest update: October 24, 2020_
 

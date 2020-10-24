@@ -16,33 +16,36 @@ module.exports = {
       },
       items: [
         {
-          to: 'docs/',
+          to: 'docs/tests',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'Products & Services',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
-        // {to: 'apps', label: 'Apps', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
+          to: 'blog',
+          label: 'Blog',
+          position: 'left'
         },
+        // {
+        //   href: 'https://github.com/facebook/docusaurus',
+        //   label: 'GitHub',
+        //   position: 'right',
+        // },
       ],
     },
     footer: {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Products & Services',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/',
+              label: 'Educational tests',
+              to: 'docs/tests/',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
+              label: 'Engish verbs app',
+              to: 'docs/irregular/',
             },
           ],
         },
@@ -51,7 +54,7 @@ module.exports = {
           items: [
             {
               label: 'About us',
-              to: 'docs/aboutus/'
+              to: 'aboutus/'
             },
             {
               label: 'Contact Edugenia',
@@ -64,7 +67,7 @@ module.exports = {
           items: [
             {
               label: 'Privacy',
-              to: 'docs/privacy/'
+              to: 'privacy/'
             },
           ],
         },
