@@ -22,8 +22,8 @@ const features = [
     imageUrl: 'img/reach.svg',
     description: (
       <>
-        Our products are multiplatform and runs seamlessy on websites, mobile apps
-        and desktop application.
+        Our products are multiplatform and run seamlessly on websites, mobile apps
+        and desktop applications.
       </>
     ),
   },
@@ -57,7 +57,7 @@ function Feature({imageUrl, title, description}) {
 function Home() {
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
-  const imgUrl = useBaseUrl('img/full_logo_shadow.png');
+  const imgUrl = useBaseUrl('img/full_logo.png');
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
