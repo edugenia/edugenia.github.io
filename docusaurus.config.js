@@ -47,19 +47,15 @@ module.exports = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Organization',
           items: [
             {
-              label: 'Stack Overflow',
+              label: 'About us',
               href: 'https://stackoverflow.com/questions/tagged/docusaurus',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Contact Edugenia',
+              href: 'mailto:info@edugenia.com',
             },
           ],
         },
@@ -67,11 +63,11 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
+              label: 'Terms',
               to: 'blog',
             },
             {
-              label: 'GitHub',
+              label: 'Privacy',
               href: 'https://github.com/facebook/docusaurus',
             },
           ],
