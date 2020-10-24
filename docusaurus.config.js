@@ -16,50 +16,49 @@ module.exports = {
       },
       items: [
         {
-          to: 'docs/',
+          to: 'docs/tests',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'Products & Services',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
-        // {to: 'apps', label: 'Apps', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
+          to: 'blog',
+          label: 'Blog',
+          position: 'left'
         },
+        // {
+        //   href: 'https://github.com/facebook/docusaurus',
+        //   label: 'GitHub',
+        //   position: 'right',
+        // },
       ],
     },
     footer: {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Products & Services',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/',
+              label: 'Educational tests',
+              to: 'docs/tests/',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
+              label: 'Engish verbs app',
+              to: 'docs/irregular/',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Organization',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'About us',
+              to: 'aboutus/'
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Contact Edugenia',
+              href: 'mailto:info@edugenia.com',
             },
           ],
         },
@@ -67,12 +66,8 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: 'blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'Privacy',
+              to: 'privacy/'
             },
           ],
         },
@@ -85,16 +80,10 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+          sidebarPath: require.resolve('./sidebars.js')
         },
         blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+          showReadingTime: true
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
