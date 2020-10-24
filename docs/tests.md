@@ -16,10 +16,10 @@ They are created via easy-to-use web or desktop editor applications, built by li
 
 ## Consume everywhere
 
-Once a test is defined and approved, it can be consumed by a target audience with in a variety of possible settings:
+Once a test is defined and approved, it can be consumed by a target audience within a variety of possible settings:
  * public or private (with authentication)
  * via web, mobile or desktop apps
- * different submission strategy (included dry run for learning without being scored)
+ * different submission strategies (included _dry run_ for learning without being scored)
  
 ## Reporting dashboards
 
