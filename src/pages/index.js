@@ -12,7 +12,7 @@ const features = [
     imageUrl: 'img/innovation.svg',
     description: (
       <>
-        At <b>Edugenia</b> we are committed to bring innovation and ease of use
+        At <b>Edugenia</b> we are committed to bring innovation and ease-of-use
         to both the creators and the consumers of educational software.
       </>
     ),
@@ -29,7 +29,7 @@ const features = [
   },
   {
     title: 'Ready for Costumization',
-    imageUrl: 'img/customization.svg',
+    imageUrl: 'img/customization.png',
     description: (
       <>
         Our solutions are designed to be flexible. We will help you package
