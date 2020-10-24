@@ -57,7 +57,7 @@ function Feature({imageUrl, title, description}) {
 function Home() {
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
-  const imgUrl = useBaseUrl('img/full_logo.png');
+  const imgUrl = useBaseUrl('img/full_logo.svg');
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
