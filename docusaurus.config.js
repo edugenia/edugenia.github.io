@@ -51,7 +51,7 @@ module.exports = {
           items: [
             {
               label: 'About us',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              to: 'docs/aboutus/'
             },
             {
               label: 'Contact Edugenia',
@@ -62,10 +62,6 @@ module.exports = {
         {
           title: 'More',
           items: [
-            {
-              label: 'Terms',
-              to: 'blog',
-            },
             {
               label: 'Privacy',
               to: 'docs/privacy/'
