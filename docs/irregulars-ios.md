@@ -17,6 +17,7 @@ Get help from our iOS app to easily learn English irregular verbs!
 * you choose the number of questions
 * 4 levels, from the easiest and most frequent to the rarest verbs
 * you can repeat a test with only the questions you got wrong
+
 ## Support
 
 Get in touch with us at [info@edugenia.com](mailto:info@edugenia.com).
