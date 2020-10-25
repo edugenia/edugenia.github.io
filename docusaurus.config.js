@@ -12,13 +12,18 @@ module.exports = {
       title: 'Edugenia',
       logo: {
         alt: 'Edugenia logo',
-        src: 'img/logo.png',
+        src: 'img/logo2.svg',
       },
       items: [
         {
           to: 'docs/tests',
-          activeBasePath: 'docs',
-          label: 'Products & Services',
+          // activeBasePath: 'docs',
+          label: 'Solutions',
+          position: 'left',
+        },
+        {
+          to: 'docs/irregulars-ios',
+          label: 'Apps',
           position: 'left',
         },
         {
@@ -37,15 +42,15 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Products & Services',
+          title: 'Products',
           items: [
             {
               label: 'Educational tests',
               to: 'docs/tests/',
             },
             {
-              label: 'Engish verbs app',
-              to: 'docs/irregular/',
+              label: 'English verbs app',
+              to: 'docs/irregulars-ios/',
             },
           ],
         },
