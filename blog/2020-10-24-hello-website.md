@@ -11,7 +11,7 @@ tags: [edugenia, web]
 
 Today is the launch of the Edugenia website.
 
-![img](../static/img/logo.svg)
+![img](../static/img/logo2.svg)
 
 For the tech savvy is:
  + built with [Docusaurus](https://v2.docusaurus.io/)

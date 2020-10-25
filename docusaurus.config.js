@@ -12,7 +12,7 @@ module.exports = {
       title: 'Edugenia',
       logo: {
         alt: 'Edugenia logo',
-        src: 'img/logo.svg',
+        src: 'img/logo2.svg',
       },
       items: [
         {
