@@ -1,7 +1,7 @@
 ---
-id: irregular
-title: English irregular verbs app
-sidebar_label: English irregular verbs
+id: irregulars-android
+title: English irregular verbs for Android
+sidebar_label: Android mobile app
 ---
 
 Coming soon for Android and iOS.

@@ -15,8 +15,8 @@ Today is the launch of the Edugenia website.
 
 For the tech savvy is:
  + built with [Docusaurus](https://v2.docusaurus.io/)
- + hosted on [GitHub Pages](https://pages.github.com/).
+ + hosted on [GitHub Pages](https://pages.github.com/)
 
-The home page art thanks to [Education](https://www.vecteezy.com/free-vector/education), [Screen](https://www.vecteezy.com/free-vector/screen) and [Phone Vectors by Vecteezy](https://www.vecteezy.com/free-vector/phone)
+Home page art thanks to [Education](https://www.vecteezy.com/free-vector/education), [Screen](https://www.vecteezy.com/free-vector/screen) and [Phone Vectors by Vecteezy](https://www.vecteezy.com/free-vector/phone).
 
 Enjoy!
