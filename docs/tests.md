@@ -23,4 +23,4 @@ Once a test is defined and approved, it can be consumed by a target audience wit
  
 ## Reporting dashboards
 
-All the stats you need, arranged in convenient visual dashboard and tables drill the data.
+All the stats you need, arranged in convenient visual dashboard and tables to drill the data.
