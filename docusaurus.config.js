@@ -22,7 +22,7 @@ module.exports = {
           position: 'left',
         },
         {
-          to: 'docs/irregulars-ios',
+          to: 'docs/irregulars',
           label: 'Apps',
           position: 'left',
         },
@@ -50,7 +50,7 @@ module.exports = {
             },
             {
               label: 'English verbs app',
-              to: 'docs/irregulars-ios/',
+              to: 'docs/irregulars/',
             },
           ],
         },
