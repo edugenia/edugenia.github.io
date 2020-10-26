@@ -27,8 +27,8 @@ Available on both [iOS](/docs/irregulars#app-store) and [Android](/docs/irregula
 example of real address
 <a href='https://apps.apple.com/us/app/iverbs-irregular-verbs/id1413069218?itsct=apps_box&amp;itscg=30200'>
 -->
+<!-- src working in build -->
 <a href='https://play.google.com/store/apps/details?id=com.edugenia.irregular'>
-  <!-- src working in build -->
   <img src='../img/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.png' alt='Download on the App Store' class='storeImage'/>
 </a>
 
