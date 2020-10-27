@@ -40,4 +40,4 @@ example of real address
 
 ## Support
 
-Get in touch with us at [info@edugenia.com](mailto:info@edugenia.com).
+Get in touch with us at [support@edugenia.com](mailto:support@edugenia.com).
