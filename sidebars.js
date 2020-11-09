@@ -4,6 +4,6 @@ module.exports = {
     Services: ['custom']
   },
   appSidebar: {
-    'Mobile apps': ['irregulars'],
+    'English irregular verbs': ['irregulars', 'irregulars-web'],
   },
 };

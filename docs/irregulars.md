@@ -1,7 +1,7 @@
 ---
 id: irregulars
-title: English irregular verbs
-sidebar_label: English irregular verbs
+title: English irregular verbs smartphone app
+sidebar_label: Smartphone app
 ---
 
 Get help from our mobile app to easily learn English irregular verbs!
@@ -19,7 +19,7 @@ Available on both [iOS](/docs/irregulars#app-store) and [Android](/docs/irregula
 * 4 levels, from the easiest and most frequent to the rarest verbs
 * you can repeat a test with only the questions you got wrong
 
-## Download 
+## Download
 
 ### App Store
 
