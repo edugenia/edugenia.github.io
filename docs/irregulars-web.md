@@ -6,7 +6,7 @@ sidebar_label: Website
 
 Easily learn English irregular verbs directly from your web browser.
 
-<a class="button button--primary button--lg" href="/irregular/index.html">
+<a class="button button--primary button--lg" href="/irregular/" target="_blank">
    Try it now!
 </a>
 
