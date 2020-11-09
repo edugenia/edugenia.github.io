@@ -12,7 +12,7 @@ Available on both [iOS](/docs/irregulars#app-store) and [Android](/docs/irregula
 ## Features
 
 * free and ad-free
-* neat and searchable collection of all verbs always available
+* neat and searchable collection of all verbs
 * audio with pronunciation
 * learn without assessments or challenge yourself with tests
 * you choose the number of questions

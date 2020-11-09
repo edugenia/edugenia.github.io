@@ -14,7 +14,7 @@ Easily learn English irregular verbs directly from your web browser.
 
 * responsive layout for mobile browsers too
 * free and ad-free
-* neat and searchable collection of all verbs always available
+* neat and searchable collection of all verbs
 * audio with pronunciation
 * learn without assessments or challenge yourself with tests
 * you choose the number of questions
