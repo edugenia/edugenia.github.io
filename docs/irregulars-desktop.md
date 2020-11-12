@@ -22,13 +22,13 @@ Easily learn English irregular verbs from a desktop application.
 
 ### Windows
 
-<a class="button button--primary button--lg" href="/artifact/English irregular verbs-1.0.1 Setup.exe">
+<a class="button button--primary button--lg" href="/artifact/English irregular verbs-1.0.1 Setup.exe" download>
    Download .exe
 </a>
 
 ### Ubuntu (Linux Debian)
 
-<a class="button button--primary button--lg" href="/artifact/irregular-e_1.0.1_amd64.deb">
+<a class="button button--primary button--lg" href="/artifact/irregular-e_1.0.1_amd64.deb" download>
    Download .deb
 </a>
 
