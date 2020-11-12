@@ -1,6 +1,6 @@
 ---
 id: irregulars-web
-title: English irregular verbs web
+title: English irregular verbs website
 sidebar_label: Website
 ---
 
@@ -12,7 +12,7 @@ Easily learn English irregular verbs directly from your web browser.
 
 ## Features
 
-* responsive layout for mobile browsers too
+* responsive layout for mobile browsers
 * free and ad-free
 * neat and searchable collection of all verbs
 * audio with pronunciation
