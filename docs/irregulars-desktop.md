@@ -22,7 +22,7 @@ Easily learn English irregular verbs from a desktop application.
 
 ### Windows
 
-<a class="button button--primary button--lg" href="/artifact/English irregular verbs-1.0.1 Setup.exe" download>
+<a class="button button--primary button--lg" href="/artifact/English_irregular_verbs-1.0.1_Setup.exe" download>
    Download .exe
 </a>
 
