@@ -7,18 +7,6 @@ sidebar_label: Desktop app
 Easily learn English irregular verbs from a desktop application.
 Available on [Windows](/docs/irregulars-desktop#windows) and [Ubuntu](/docs/irregulars-desktop#ubuntu).
 
-![img](../static/img/irregulars/Ubuntu_app.png)
-
-## Features
-
-* free and ad-free
-* neat and searchable collection of all verbs
-* audio with pronunciation
-* learn without assessments or challenge yourself with tests
-* you choose the number of questions
-* 4 levels, from the easiest and most frequent to the rarest verbs
-* you can repeat a test with only the questions you got wrong
-
 ## Download
 
 ### Windows
@@ -32,6 +20,18 @@ Available on [Windows](/docs/irregulars-desktop#windows) and [Ubuntu](/docs/irre
 <a class="button button--primary button--lg" href="https://github.com/edugenia/edugenia.github.io/raw/artifact/artifact/irregular-e_1.0.2_amd64.deb" download>
    Download .deb
 </a>
+
+## Features
+
+* free and ad-free
+* neat and searchable collection of all verbs
+* audio with pronunciation
+* learn without assessments or challenge yourself with tests
+* you choose the number of questions
+* 4 levels, from the easiest and most frequent to the rarest verbs
+* you can repeat a test with only the questions you got wrong
+
+![img](../static/img/irregulars/Ubuntu_app.png)
 
 ## Support
 
