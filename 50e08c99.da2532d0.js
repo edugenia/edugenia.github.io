@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{66:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"edugenia","name":"edugenia","count":1,"permalink":"/blog/tags/edugenia"}')}}]);
