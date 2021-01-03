@@ -4,7 +4,7 @@ title: English irregular verbs smartphone app
 sidebar_label: Smartphone app
 ---
 
-Get help from our mobile app to easily learn English irregular verbs!
+**Get help from our mobile app to easily learn English irregular verbs!**
 Available on both [iOS](/docs/irregulars#app-store) and [Android](/docs/irregulars#google-play).
 
 ## Download

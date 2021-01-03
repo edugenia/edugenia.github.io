@@ -4,7 +4,7 @@ title: English irregular verbs for web browser
 sidebar_label: Web browser
 ---
 
-Easily learn English irregular verbs directly from your web browser.
+**Easily learn English irregular verbs directly from your web browser!**
 Works on all modern browsers (included Firefox, Safari, Edge, Chrome).
 
 <a class="button button--primary button--lg" href="/irregular/" target="_blank">

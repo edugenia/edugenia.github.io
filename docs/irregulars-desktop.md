@@ -4,7 +4,7 @@ title: English irregular verbs desktop app
 sidebar_label: Desktop app
 ---
 
-Easily learn English irregular verbs from a desktop application.
+**Easily learn English irregular verbs from a desktop application!**
 Available on [Windows](/docs/irregulars-desktop#windows) and [Ubuntu](/docs/irregulars-desktop#ubuntu).
 
 ## Download
