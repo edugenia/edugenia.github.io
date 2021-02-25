@@ -11,13 +11,13 @@ Available on [Windows](/docs/irregulars-desktop#windows) and [Ubuntu](/docs/irre
 
 ### Windows
 
-<a class="button button--primary button--lg" href="https://github.com/edugenia/edugenia.github.io/raw/artifact/artifact/English_irregular_verbs-1.0.2_Setup.exe" download>
+<a class="button button--primary button--lg" href="https://github.com/edugenia/edugenia.github.io/raw/artifact/artifact/English_irregular_verbs-4.0.0_Setup.exe" download>
    Download .exe
 </a>
 
 ### Ubuntu (Linux Debian)
 
-<a class="button button--primary button--lg" href="https://github.com/edugenia/edugenia.github.io/raw/artifact/artifact/irregular-e_1.0.2_amd64.deb" download>
+<a class="button button--primary button--lg" href="https://github.com/edugenia/edugenia.github.io/raw/artifact/artifact/irregular-e_4.0.0_amd64.deb" download>
    Download .deb
 </a>
 
