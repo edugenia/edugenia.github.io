@@ -22,7 +22,7 @@ module.exports = {
           position: 'left',
         },
         {
-          to: 'docs/irregulars-web',
+          to: 'docs/demo',
           label: 'Apps',
           position: 'left',
         },
