@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.edugenia.com/blog</id>
+    <title>Edugenia Blog</title>
+    <updated>2020-10-24T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://www.edugenia.com/blog"/>
+    <subtitle>Edugenia Blog</subtitle>
+    <icon>https://www.edugenia.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hello website]]></title>
+        <id>hello-website</id>
+        <link href="https://www.edugenia.com/blog/hello-website"/>
+        <updated>2020-10-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[...a big step for Edugenia]]></summary>
+    </entry>
+</feed>
